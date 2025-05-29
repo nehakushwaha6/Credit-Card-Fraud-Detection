@@ -30,13 +30,6 @@ This project demonstrates:
 
 - **Source**: [Jupyternotebook - Credit Card Fraud Detection].
 
-- Features:
-  - 31 total columns (Time, V1–V28, Amount, Class)
-  - Class `0` = Genuine, Class `1` = Fraudulent
-  - Highly imbalanced dataset (only 0.17% fraud cases)
-
----
-
 ## 🛠️ Technologies Used
 
 - Python 🐍
